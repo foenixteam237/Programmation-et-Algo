@@ -24,7 +24,7 @@ return accumulator;
 //Greeting
 
 void greating(){
-	//printf("Bonjour");
+	printf("Bonjour");
 }
 
 //Inverse
